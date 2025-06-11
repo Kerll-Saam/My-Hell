@@ -1,9 +1,7 @@
-<!DOCTYPE html>
 <div align="center">
           
-| ![Gato do GitHub](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTisMVeb919xeAttynEvRbemSVSoulPSD6wSA&s) |
-|:---------------------------------------------------------------------------------------------------------------:|
-# HELLO!!
+![215282743-5a6fb12c-b67c-45b4-b547-1c340958c6da](https://github.com/user-attachments/assets/3b5af0da-3ba6-4c3f-885e-b0ae930d612e)
+
 </div>
          
 <div align="center">
@@ -24,8 +22,9 @@
 
 ##
 <div align="center">
-<img align="center" alt="kerll-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="center" alt="kerll-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img align="center" alt="kerll-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />        
+<img align="center" alt="kerll-python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="center" alt="kerll-python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img align="center" alt="kerll-python" height="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />        
+
 </div>
 
